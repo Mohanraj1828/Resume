@@ -5,7 +5,8 @@ div
     border: 2px;
     border-style: double;
     margin-right: -8px;
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
+    font-family: cursive;
 }
 p{
     text-align: justify;
@@ -13,4 +14,11 @@ p{
 h1,h2,h4,p,ul,li,table
 {
     margin-left: 25px;
+}
+h4,p,ul,li,table,h3{
+    margin-left: 50px;
+}
+h1,h2{
+    text-decoration: underline;
+    color: lightblue;
 }
