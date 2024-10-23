@@ -1,12 +1,20 @@
-body
+div
 {
     font-size: larger;
     border-radius: 40px;
     border: 2px;
     border-style: double;
-    margin-right: 785px;
+    margin-right: -8px;
+    background-color: aliceblue;
 }
 p{
     text-align: justify;
 }
-div
+h1,h2,h4,p,ul,li,table
+{
+    margin-left: 25px;
+}
+img
+{
+    background-position: right-cor;
+}
