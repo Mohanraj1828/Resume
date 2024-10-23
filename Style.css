@@ -1,0 +1,12 @@
+body
+{
+    font-size: larger;
+    border-radius: 40px;
+    border: 2px;
+    border-style: double;
+    margin-right: 785px;
+}
+p{
+    text-align: justify;
+}
+div
